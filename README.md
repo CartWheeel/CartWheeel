@@ -9,6 +9,19 @@ Hey, I'm Carter — a soon-to-be graduate in Computer Science from Brigham Young
 - 🎯 Career goal: Join a team where I can write clean, maintainable code and keep learning fast
 - 💬 Ask me about: building from scratch, debugging edge cases, or optimizing workflows with automation
 
+## Projects
+
+### [OCRganizer – Receipt OCR & Inventory Database](https://github.com/CartWheeel/OCRganizer_Final)
+A desktop app using Python, SQLite, and OCR (Tesseract) to extract and track itemized receipts. Includes custom category parsing and GUI via PySimpleGUI.
+
+### Terminal-Based Games
+- [Hangman](https://github.com/CartWheeel/hangman)
+- [Code-Breakers](https://github.com/CartWheeel/mastermind)
+- [Card Probability Simulator](https://github.com/CartWheeel/PokeProbabilitySim)
+- [2D RPG](https://github.com/CartWheeel/SamuraiQuest)
+
+
+
 ## Technologies and Tools
 
 - **Languages**: Python, C#, JavaScript, HTML/CSS, Rust, Bash
